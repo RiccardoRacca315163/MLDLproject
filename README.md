@@ -46,6 +46,6 @@ Directly delivered in: QAResults.pdf
 
 
 ### Contacts
-Leone Aurora, s334258@studenti.polito.it 
-Narese Michele, s329892@studenti.polito.it 
-Racca Riccardo, s315163@studenti.polito.it 
+Leone Aurora s334258@studenti.polito.it,  
+Narese Michele s329892@studenti.polito.it,  
+Racca Riccardo s315163@studenti.polito.it 
