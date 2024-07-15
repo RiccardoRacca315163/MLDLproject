@@ -27,7 +27,7 @@ The training process and the analysis are conducted on the NLQ Episodic Memory d
 Related statistics can be found in the: StatsForData.ipynb
 
 ### Architectures
-The architectures that will be used and fine-tuned will be VSLNet and VSLBase. The reason why they were adopted is that VSLNet and VSLBase are specifically designed for the NLQ task. Specifically, to better understand the impact of the QGH module, it has been removed from VSLnet, following the construction of VSLBase architecture. Both models figure two feature extractors: one used for videos and one for text data to obtain word embedding. Shown in: Training.ipynb
+The architectures that will be used and fine-tuned will be VSLNet and VSLBase. For the actual implementation code please see disclaimer 2 above
 
 
 ### Evaluation and Comparison
