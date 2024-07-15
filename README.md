@@ -28,7 +28,9 @@ The training process and the analysis are conducted on the NLQ Episodic Memory d
 Related statistics can be found in the: StatsForData.ipynb
 
 ### Architectures
-The architectures that will be used and fine-tuned will be VSLNet and VSLBase. For the actual implementation code please see disclaimer 2 above
+The architectures used and fine-tuned are VSLNet and VSLBase. 
+For the actual implementation code please see disclaimer 2 above. 
+Shown in: Training.ipynb
 
 
 ### Evaluation and Comparison
