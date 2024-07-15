@@ -17,7 +17,7 @@ Racca Riccardo
 - [Contacts](#Contacts)
 
 ### Disclaim 1
-All outputs that are not necessary for understanding the code have been removed for readability purposes, to optimize space, and to improve rendering on GitHub. If you want to see the complete Colab with all outputs, it is available here: [(link)] https://colab.research.google.com/drive/1XxMJic6YQY6c4x80FzJWw7JasdRDxW44#scrollTo=cpWsqiln5ZFg . Especially for video QA, it is recommended to view it by opening the Google Colab with the given link, or to refer to the QA results table
+All outputs that are not necessary for understanding the code have been removed for readability purposes, to optimize space, and to improve rendering on GitHub. If you want to see the complete Colab with all outputs, it is available here: https://colab.research.google.com/drive/1XxMJic6YQY6c4x80FzJWw7JasdRDxW44#scrollTo=cpWsqiln5ZFg . Especially for video QA, it is recommended to view it by opening the Google Colab with the given link, or to refer to the QA results table
 
 ### Disclaim 2
 The models implemented can be found in the following GitHub repository: https://github.com/Auroraleone/episodic-memory_Auro
