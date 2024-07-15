@@ -2,8 +2,8 @@
 Ego-centric Videos and Natural Language Queries
 
 # Authors:
-Leone Aurora
-Narese Michele
+Leone Aurora,
+Narese Michele,
 Racca Riccardo
 
 
