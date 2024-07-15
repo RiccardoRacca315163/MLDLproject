@@ -8,8 +8,8 @@ Racca Riccardo
 
 
 ## Table of Contents
-- [Disclaim_1](#Disclaim1)
-- [Disclaim_2](#Disclaim2)
+- [Disclaim 1](#Disclaim_1)
+- [Disclaim_2](#Disclaim_2)
 - [Dataset](#Dataset) 
 - [Architectures](#Architectures)
 - [Evaluation&Comparison](#evaluation&comparison)
