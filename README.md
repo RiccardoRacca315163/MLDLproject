@@ -12,7 +12,7 @@ Racca Riccardo
 - [Disclaim 2](#Disclaim2)
 - [Dataset](#Dataset) 
 - [Architectures](#Architectures)
-- [Evaluation & Comparison](#evaluation&comparison)
+- [Evaluation and Comparison](#evaluation&comparison)
 - [Ensemble](#Ensemble)
 - [Results](#results) 
 - [Contacts](#Contacts)
