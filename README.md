@@ -9,7 +9,6 @@ Racca Riccardo
 
 ## Table of Contents
 - [Disclaim](#Disclaim1)
-- [Disclaim](#Disclaim2)
 - [Dataset](#Dataset) 
 - [Architectures](#Architectures)
 - [Evaluation&Comparison](#evaluation&comparison)
