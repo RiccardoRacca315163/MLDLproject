@@ -29,8 +29,7 @@ Related statistics can be found in the: StatsForData.ipynb
 
 ### Architectures
 The architectures used and fine-tuned are VSLNet and VSLBase. 
-For the actual implementation code please see disclaimer 2 above. 
-Shown in: Training.ipynb
+For the actual implementation code please see disclaimer 2 above and Training.ipynb
 
 
 ### Evaluation and Comparison
