@@ -8,17 +8,11 @@ Racca Riccardo
 
 
 ## Table of Contents
-- [Abstract](#Abstract)
-- [Introduction](#Introduction) 
-- [Task](#Prerequisites) 
+- [Disclaim](#Disclaim)
 - [Dataset](#Dataset) 
 - [Architectures](#Architectures)
-- [WordEmbedding](#WordEmbedding)
-- [SyntethicRepresentation](#syntethicRepresentation)
 - [Evaluation&Comparison](#evaluation&comparison)
-- [QApipeline](#QApipeline)
 - [Ensemble](#Ensemble)
-- [Disclaim](#Disclaim)
 - [Results](#results) 
 - [Contacts](#Contacts)
 
