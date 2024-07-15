@@ -23,9 +23,11 @@ Racca Riccardo
 - [Contacts](#Contacts)
 
 #Abstract
+
 This report aims to tackle the task of action recognition and identification in egocentric videos, that is, identifying a timeframe where the answer to a natural language query can be seen within the provided video, and then exploiting this knowledge in order to build a textual answer. Different architectures are implemented and trained on various pre-extracted features of Ego4D dataset, whilst multiple metrics are used to compare the performance of different models with the benchmark, in order to obtain a robust model that is employable in the next step. Subsequently, a video question-answering pipeline is built by leveraging the results provided by the previous architectures and using them as input for a VLM (Video Language Model), to not only retrieve a time interval but also provide a textual answer. Finally, an ensemble method is introduced to obtain better predictions while exploiting the, partially wasted, computational effort needed to build and compare different models.
 
 #Introduction
+
 Videos taken from a human point of view have lately become more and more popular as they are employed in many different fields such as wearable computing, augmented reality and human-computer interaction. As a consequence, the urge of developing models, that are able to tackle this category of problems, led to the need of collecting large-scale data in order to better capture the nature of this task. For this reason, datasets such as EpicKitchens and Ego4D were created. Many tasks are related to egocentric video understanding such as action anticipation, cross-modal retrieval or action recognition (both fully and weakly supervised)
 
 #Task
